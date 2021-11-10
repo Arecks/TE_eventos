@@ -1,0 +1,110 @@
+body{
+    background: #1B2631 ;
+}
+.titulo{
+    color: #117864;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Courier, "Lucida Console", monospace ;
+}
+
+.tabla{
+    margin-left: 370px;
+
+    margin: 0 auto ;
+    border:  1px solid #1B2631;
+    font-size: 18px;
+    border-collapse:collapse;
+}
+
+.tabla th {
+    margin: 0 auto;
+    border: 1px solid #1B2631  ;
+    font-size: 18px;
+    padding: 15px;
+    text-align: center;
+    color: #117864 ;
+    background: #154360;
+}
+
+.tabla td{
+    margin: 0 auto;
+    border: 1px solid #1B2631 ;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    text-align: center;
+    background:#5D6D7E;
+}
+
+.rojo{
+    color:#A93226;
+}
+
+.blanco{
+    color:#A6ACAF  ;
+}
+
+.btn-bootstrap {
+    text-decoration: none;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    background-color: #28B463 ;
+    color: #fff;
+    transition: background-color .15s ease-in-out;
+}
+
+.btn-bootstrap:hover, .btn-bootstrap:focus {
+    background-color: #145A32  ;
+}
+
+
+.btn-bootstrap1 {
+    text-decoration: none;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    background-color: #CB4335 ;
+    color: #fff;
+    transition: background-color .15s ease-in-out;
+}
+
+.btn-bootstrap1:hover, .btn-bootstrap1:focus {
+    background-color: #7B241C;
+}
+
+
+.btn-bootstrap2 {
+    margin-top: -50px;
+    position: absolute;
+    margin-left: 130px  ;
+    text-decoration: none;
+    padding: 10px ;
+    border-radius: .25rem;
+    background-color: #2874A6 ;
+    color: #fff;
+    transition: background-color .15s ease-in-out;
+}
+
+.btn-bootstrap2:hover, .btn-bootstrap2:focus {
+    background-color: #1A5276 ;
+}
+
+.div{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 80px;
+    font-family: Courier, "Lucida Console", monospace ;
+}
+.div1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 80px;
+    font-family: Courier, "Lucida Console", monospace ;
+    margin-left: 520px;
+}
+
